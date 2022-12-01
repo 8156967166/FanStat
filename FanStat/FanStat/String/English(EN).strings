@@ -1,0 +1,17 @@
+
+/*
+ English.strings
+ BaseApp
+ 
+ Created by AppStationMacMini on 04/02/21.
+ Copyright © 2021 Sreelekshmi. All rights reserved..
+ */
+
+/***********************************  NETWORK CALL *************************************/
+"key_Session_Expired"   = "Your session is expired";
+"Key_Network_Error"     =  "Please check your internet connection";
+"key_Server_busy" = "Server is busy, try again later";
+"key_Check_internet" = "Please check the internet availability";
+
+/***********************************  APP RELATED *************************************/
+"Key_Test_App"               =  "Test App";

@@ -1,0 +1,17 @@
+/*
+ Arabic.strings
+ BaseApp
+ 
+ Created by AppStationMacMini on 04/02/21.
+ Copyright © 2021 Sreelekshmi. All rights reserved..
+ */
+
+
+/***********************************  NETWORK CALL *************************************/
+"key_Session_Expired"   = "لقد انتهت مدة جلستك";
+"Key_Network_Error"     =  "الرجاء التحقق من اتصال الانترنت الخاص بك";
+"key_Server_busy" = "الخادم مشغول ، حاول مرة أخرى لاحقًا";
+"key_Check_internet" = "الرجاء التأكد من اتصالك بالإنترنت.";
+
+/***********************************  APP RELATED *************************************/
+"Key_Test_App"               =  "اختبار التطبيق";
